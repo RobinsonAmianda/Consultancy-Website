@@ -1,0 +1,24 @@
+.black-link {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.text-red {
+    color: red; /* Change text color to red */
+}
+.text-black{
+    color: black;
+}
+
+.text-red i {
+    
+    padding-right: -5px; /* Adjust margin to create space between icon and text */
+}
+.back-to-top{
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 45px;
+    z-index: 99;
+}
